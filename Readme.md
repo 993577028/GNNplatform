@@ -10,5 +10,5 @@
 
 ```
 pip install streamlit
-streamlit run myApp.py
+streamlit run Home.py
 ```
